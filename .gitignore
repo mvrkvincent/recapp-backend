@@ -1,0 +1,7 @@
+/node_modules
+.DS_Store
+
+# Uncomment the following lines when you have added your mongoDB connection string to keys.js
+
+# /config
+# /config/keys.js

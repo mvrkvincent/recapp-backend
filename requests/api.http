@@ -1,0 +1,17 @@
+# To use this file, install the REST Client extension for VSCode
+
+### Submit Question
+
+POST http://127.0.0.1:5000/api/questions
+Content-Type: application/json
+
+{
+    "name": "Student",
+    "content": "This is a question"
+}
+
+
+### GET
+
+GET http://127.0.0.1:5000/api/questions
+Content-Type: application/json
